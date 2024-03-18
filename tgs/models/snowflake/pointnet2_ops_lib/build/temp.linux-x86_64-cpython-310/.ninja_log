@@ -1,0 +1,32 @@
+# ninja log v5
+23	33909	1705866006532996200	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	99582ad38ddaaf50
+27	34975	1705866006540514500	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	d238238e6650d3a7
+31	34998	1705866006881236900	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	a7bdd6977e1fb825
+35	35022	1705866007210526500	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	1f1e8425c36e1f3d
+26	35054	1705866007666572800	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	d6bf8ba7110dde91
+24	98957	1705866071591170600	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	efecdf347cbe7d13
+29	99221	1705866071849908000	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	3756a970784481b9
+33	100589	1705866073225689100	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	b0e0786ec56e1649
+36	109617	1705866082251880100	/mnt/c/Users/Jonathan Clark/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	8c2a0ca8417665d2
+181	16902	1707007220985877600	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	3d6b7c5fa3b6e7d9
+177	17918	1707007221409620700	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	eb9d2bba8170f310
+180	17943	1707007221389882300	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	b19fa9e836b68262
+187	17966	1707007221403000900	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	cc866b28519a64ba
+189	17988	1707007221281119000	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	33e89de0ef3a52c9
+189	56986	1707007261065163100	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	1f0707698396c8e2
+178	57067	1707007261090060000	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	9aeddcd76946412d
+184	57083	1707007261066245300	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	bd578a75e67b5a97
+190	57530	1707007261607176600	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	d2841c621d6e4122
+336	73353	1707045180058485100	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	6b1d36ca521158aa
+338	73427	1707045180132192900	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	75861e201b37fa5
+339	73508	1707045180215032100	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	20ef8ab2eddff2b7
+341	75384	1707045182091385800	/mnt/c/Users/jonathan/Dev/TriplaneGaussian/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	1942d23337d7ed7b
+41	19285	1709818468880647400	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	fdf2d83996e2affd
+35	20204	1709818468981782200	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	e19b86eeffd9b6b1
+35	20228	1709818468880647400	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	db1f86e0b28d2aa6
+39	20252	1709818469122030100	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	a11a0c50e7f2cc1d
+46	20277	1709818468924648400	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	fcaafe5872abaa6a
+37	90919	1709818534990381900	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	8d3452b6c5b6745e
+46	91193	1709818535248459900	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	4ec4881f029bd23a
+44	91224	1709818535274884300	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	b8ed7b4dcf51362f
+47	92204	1709818536178471000	/mnt/c/Users/jonathan/Dev/TriGSMesh/tgs/models/snowflake/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	895361859a2523fb

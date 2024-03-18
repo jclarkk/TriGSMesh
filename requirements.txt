@@ -1,0 +1,20 @@
+OmegaConf
+diffusers==0.19.3
+einops
+gradio==4.21.0
+imageio
+imageio-ffmpeg
+jaxtyping
+kiui >= 0.2.3
+matplotlib
+plyfile
+pymeshlab==2023.12.post1
+pymcubes==0.1.4
+rembg
+roma
+scikit-learn
+segment_anything
+transformers==4.34.1
+trimesh
+tyro
+xatlas
